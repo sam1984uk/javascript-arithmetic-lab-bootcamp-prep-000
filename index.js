@@ -26,6 +26,6 @@ function subtract(a, b){
     return parseInt(n, 10)
   }
   
-  function preserverDecimal(n){
+  function preserveDecimal(n){
     return parseFloat('n')
   }
