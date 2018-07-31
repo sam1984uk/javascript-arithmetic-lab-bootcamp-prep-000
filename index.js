@@ -14,4 +14,6 @@ function subtract(a, b){
     return a / b
   }
   
-  function inc(n)
+  function inc(n){
+    return ++ n
+  }
