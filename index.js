@@ -22,4 +22,6 @@ function subtract(a, b){
     return -- n
   }
   
-  
+  function makeInt(n){
+    
+  }
