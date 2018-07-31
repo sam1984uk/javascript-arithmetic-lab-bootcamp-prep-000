@@ -27,5 +27,5 @@ function subtract(a, b){
   }
   
   function preserverDecimal(n){
-    return parseFloat(n, 10)
+    return parseFloat('n')
   }
